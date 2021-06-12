@@ -44,7 +44,7 @@ class _DeviceWidgetState extends State<DeviceWidget> {
                 children: [
                   Icon(
                     widget._deviceIcon,
-                    color: Colors.blue[300],
+                    color: _iconColor,
                     size: 50,
                   ),
                   Expanded(
