@@ -12,7 +12,6 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  var _iconMap = {'icon': AppIcons.lightbulb};
   @override
   Widget build(BuildContext context) {
     final title = 'My Home';
