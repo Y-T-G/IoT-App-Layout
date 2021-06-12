@@ -11,8 +11,10 @@ class DeviceWidget extends StatefulWidget {
 }
 
 class _DeviceWidgetState extends State<DeviceWidget> {
-  var _powerText = 'Off';
+  var _powerText = 'OFF';
   Color _iconColor = Colors.grey;
+
+  //Function to toggle icon color
   void toggleColor() {
     setState(() {
       if (_iconColor == Colors.grey) {
