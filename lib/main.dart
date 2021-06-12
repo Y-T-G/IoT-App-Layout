@@ -12,6 +12,7 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
+  //Map of devices grouped by room
   Map _devices = {
     'living': [
       {'name': 'Lights (LR)', 'icon': AppIcons.lightbulb},
@@ -73,7 +74,7 @@ class _MyAppState extends State<MyApp> {
                 crossAxisCount: 2,
                 crossAxisSpacing: 10,
                 children: [
-                  //Looping to get devices in bedroom
+                  //Looping to get devices only in bedroom
                   for (Map device in _devices['bedroom'])
                     DeviceWidget(device['name'], device['icon']),
                 ],
