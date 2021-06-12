@@ -1,6 +1,7 @@
 # IoT App Layout Assignment - Part 1
-Name: Yasin Mohammed
-Matric No.: 1814111
+
+**Name:** Yasin Mohammed  
+**Matric No.:** 1814111
 
 ## Compilation Instruction
 
@@ -10,9 +11,9 @@ Matric No.: 1814111
 
 ## Icon Credits
 
-Power by ARudmann from the Noun Project
-Light Bulb by Dmitry Baranovskiy from the Noun Project
-Air Conditioner by Siipkan Creative from the Noun Project
-TV by Ilia Sokolov from the Noun Project
-Fan by flamingo from the Noun Project
-sound system by Ayub Irawan from the Noun Project
+- Power by ARudmann from the Noun Project
+- Light Bulb by Dmitry Baranovskiy from the Noun Project
+- Air Conditioner by Siipkan Creative from the Noun Project
+- TV by Ilia Sokolov from the Noun Project
+- Fan by flamingo from the Noun Project
+- sound system by Ayub Irawan from the Noun Project
