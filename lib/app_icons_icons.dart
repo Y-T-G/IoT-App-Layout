@@ -25,6 +25,6 @@ class AppIcons {
   static const IconData fan = IconData(0xe802, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData sound_system = IconData(0xe803, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData lightbulb = IconData(0xe805, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData tv = IconData(0xe807, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData aircon = IconData(0xe808, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData tv = IconData(0xe80a, fontFamily: _kFontFam, fontPackage: _kFontPkg);
 }
